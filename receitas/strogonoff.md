@@ -6,8 +6,6 @@
 
 - Novo ingrediente
 
-
-
 ### Modo de Preparo
 
 1. Faça
@@ -15,5 +13,3 @@
 2. Coma
 
 3. Dale
-
-
